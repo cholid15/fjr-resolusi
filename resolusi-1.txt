@@ -1,0 +1,7 @@
+Resolusi saya untuk sebelum akhir tahun 2022:
+1. Menguasai HTML  & CSS dengan baik
+2. Menguasai Framework CSS:
+  - Boostrap
+3. Memahami Javascrpit dengan baik
+4. Memahami tentang Node.js serta React.JS
+5. Memiliki Pengetahuan yang mendasar tentang GIT & GITHUB
