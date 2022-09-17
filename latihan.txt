@@ -1,0 +1,2 @@
+Ini adalah repo untuk latihan sederhana mengenai github
+agar pemahaman dasar tentang git & github jadi semakin kuat.
